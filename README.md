@@ -20,13 +20,13 @@ Dedicated to the World's best (and only) Genie in a bottle. [Congrats on the fre
 For Laravel 5.4 and above
 
 ```bash
-composer require duongld/genie ~2.0
+composer require duongld/genie
 ```
 
 For Laravel 5.3 and below
 
 ```bash
-composer require duongld/genie ~1.0
+composer require duongld/genie
 ```
 
 ## Implementation
